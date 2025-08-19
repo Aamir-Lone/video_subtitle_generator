@@ -94,7 +94,9 @@ def render_subtitles(video_path, output_path, transcript, dynamic_colors=True):
     # Merge original audio back
     video_clip = VideoFileClip("temp_video.mp4")
     audio_clip = AudioFileClip(video_path)
-    final_clip = video_clip.with_audio(audio_clip)
+    # final_clip = video_clip.with_audio(audio_clip)
+    final_clip = video_clip.set_audio(audio_clip)
+
     final_clip.write_videofile(output_path, codec="libx264", audio_codec="aac")
 
 
