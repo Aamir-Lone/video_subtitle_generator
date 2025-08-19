@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:06,560
+Hi, my name is Ateesh and my name is Piyush Kerk and together we are bringing an awesome course
+
+2
+00:00:06,560 --> 00:00:11,439
+on Node.js. Whenever somebody wants to get started with Node.js, there are three prominent
+
+3
+00:00:11,439 --> 00:00:16,960
+questions that everybody asks. What is Node.js? How should I learn this into this modern age?
+
+4
+00:00:16,960 --> 00:00:23,359
+And once I learn this, how can I implement this into professional and production grade projects?
+
+5
+00:00:23,359 --> 00:00:29,600
+This course address exactly the same thing from foundations to behind the scenes to projects
+
+6
+00:00:29,600 --> 00:00:34,320
+everything is covered in this course. This course is not just a deep dive into Node.js,
+
+7
+00:00:34,320 --> 00:00:41,280
+but we will also work into things like creating our own web servers using core HTTP module of Node.js.
+
+8
+00:00:41,280 --> 00:00:45,920
+And there are so many such fun things that we are going to do. Not only that, we are also going to
+
+9
+00:00:45,920 --> 00:00:50,960
+address how Node.js becomes an integral part in building production grade application with
+
+10
+00:00:50,960 --> 00:00:56,160
+all the modern tools that you have seen around. Things like Express, Drizzle, Doc,
+
