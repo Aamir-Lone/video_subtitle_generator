@@ -2,8 +2,8 @@
 import streamlit as st
 import tempfile
 import os
-from moviepy import VideoFileClip, AudioFileClip
-# from moviepy.editor import VideoFileClip
+# from moviepy import VideoFileClip, AudioFileClip
+from moviepy.editor import VideoFileClip
 import whisper
 import srt
 from datetime import timedelta

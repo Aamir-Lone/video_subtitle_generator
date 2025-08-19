@@ -4,7 +4,7 @@ import numpy as np
 import whisper
 import random
 from PIL import ImageFont, ImageDraw, Image
-from moviepy import VideoFileClip, AudioFileClip
+from moviepy.editor import VideoFileClip, AudioFileClip
 
 
 # -----------------------------
