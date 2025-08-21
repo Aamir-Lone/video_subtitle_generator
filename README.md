@@ -29,15 +29,13 @@ This project is built using **Streamlit**, **OpenAI Whisper**, and **MoviePy**, 
 
 ## 📦 Dependencies
 
-Make sure you have Python **3.10+** installed.  
+Make sure you have Python installed.  
 Install the required dependencies using:
 
 ```bash
 pip install -r requirements.txt
 requirements.txt example:
-nginx
-Copy
-Edit
+
 streamlit
 openai-whisper
 moviepy
